@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1xj7w0ewY0qovcPwyAZ_nIs6kM8ngYtvV/view
 
 ## License
 
-MIT
+This project is licensed under The MIT License
 
 ## Author
 
